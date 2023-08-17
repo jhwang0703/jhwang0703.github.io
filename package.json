@@ -1,0 +1,11 @@
+{
+  "name": "stephen_hwang_personal_website",
+  "version": "1.0.0",
+  "description": "Personal website.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Hwang",
+  "license": "ISC"
+}
